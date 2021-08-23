@@ -1,0 +1,21 @@
+.cta-btn {
+  border: none;
+  animation-name: fade-in;
+  animation-duration: 2.5s;
+  // animation-delay: 2s;
+
+  // font-family: "Lora", serif;
+  // font-family: "DM Serif Text", serif;
+  margin: 3rem;
+  text-align: center;
+  font-weight: 800;
+  font-family: "Roboto";
+
+  height: 4rem;
+  width: 14rem;
+  background-color: $btn-color;
+  color: $font-color-white;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+}
